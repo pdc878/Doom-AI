@@ -12,9 +12,10 @@ Welcome to Doom AI, where an environment to test renforcement learning models in
 - Extensible Environment Setup: Our setup supports modifications to the Doom game environment, enabling the testing of AI models under a wide range of conditions, from simple mazes to complex battle scenarios.
 - Real-time Training Metrics: Track your AI's performance with real-time metrics, reward and scoring metrics.
 
-Getting Started
+## Getting Started
 
 - Installation: Clone the repository and install the required dependencies to get started with Doom AI.
 - Training Your Model: To run the model using conda is recommended. Use python3 main.py or conda main.py to run
 - Evaluation and Testing: Evaluate your trained model's performance in the Doom environment, using our built-in testing frameworks to measure effectiveness across different levels and scenarios.
 - Contributing: Your contributions can help improve Doom AI! Whether it's by refining the model, enhancing the environment, or improving documentation, we welcome your pull requests.
+
