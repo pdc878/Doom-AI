@@ -12,7 +12,7 @@ Welcome to Doom AI, where an environment to test renforcement learning models in
 - Extensible Environment Setup: Our setup supports modifications to the Doom game environment, enabling the testing of AI models under a wide range of conditions, from simple mazes to complex battle scenarios.
 - Real-time Training Metrics: Track your AI's performance with real-time metrics, reward and scoring metrics.
 
-
+![System running](Image.png)
 
 ## Getting Started
 
